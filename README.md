@@ -15,9 +15,10 @@ Process:
 - implement early stopping during training to prevent overfitting.
 - measure rmse score
 
-  Results:
+Results:
 
-  RMSE = 0.062
-  ranked 14 out of 360 participants
+RMSE = 0.062
+
+ranked 14 out of 360 participants
 
 
